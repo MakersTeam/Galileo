@@ -5,3 +5,5 @@ This repository contains packages and example codes to use with Intel® Galileo 
 The current examples available are:
 
 ### Arduino examples
+
+* [SoftwareSerial_GalileoGen2.ino](./Arduino-Examples/SoftwareSerial/SoftwareSerial_GalileoGen2.ino)
