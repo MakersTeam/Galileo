@@ -1,5 +1,6 @@
 # SoftwareSerial Library
 
+
 The SoftwareSerial library is not supported by Galileo; however, there is a workaround that allows using pins 2 and 3 as a serial interface.
 
 The example **SoftwareSerial_GalileoGen2.ino** shows how this workaround works.
