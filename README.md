@@ -9,3 +9,4 @@ The current examples available are:
 * [SoftwareSerial_GalileoGen2.ino](./Arduino-Examples/SoftwareSerial/SoftwareSerial_GalileoGen2.ino)
 * [DataSharing.ino](./Arduino-Examples/DataSharing.ino)
 * [USBCheckStatus.ino](./Arduino-Examples/USBCheckStatus.ino)
+* [setPWM_GalileoGen2.ino](./Arduino-Examples/setPWM_GalileoGen2.ino)
